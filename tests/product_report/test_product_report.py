@@ -19,7 +19,7 @@ import pytest
         ),
     ],
 )
-def test_product_report(data, expected_result) -> None:
+def test_product_report(data, expected_result) -> str:
     # raise NotImplementedError
     product = Product(**data)
 
