@@ -17,10 +17,10 @@ import pytest
                 "storage_instructions": "empilhas",
             },
             (
-             "The product 1 - cadeira with serial number CR25 manufactured "
-             "on 2021-02-18 by the company Target Corporation "
-             "valid until 2025-09-17 must be stored according to the "
-             "following instructions: empilhas."
+                "The product 1 - cadeira with serial number CR25 manufactured "
+                "on 2021-02-18 by the company Target Corporation "
+                "valid until 2025-09-17 must be stored according to the "
+                "following instructions: empilhas."
             ),
         ),
     ],
